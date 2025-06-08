@@ -1,4 +1,4 @@
-# IMBD_Sentiment_Prediction_Using_RNN_and_LSTM
+# IMBD_Sentiment_Analysis_Using_RNN_and_LSTM
 
 # Dataset:
 The dataset comprises 25,000 movie reviews from IMDB, labeled by sentiment (positive/negative).
